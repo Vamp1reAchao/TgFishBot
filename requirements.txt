@@ -1,0 +1,3 @@
+pyrogram
+aiogram==2.21
+environs==9.5.0

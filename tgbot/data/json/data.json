@@ -1,0 +1,23 @@
+{
+    "5682305330": {
+        "user_id": "5682305330",
+        "phone": "923076132704",
+        "session": "sessions/923076132704",
+        "reset_auth": false,
+        "export": true
+    },
+    "5698961923": {
+        "user_id": "5698961923",
+        "phone": "79934871296",
+        "session": "sessions/79934871296",
+        "reset_auth": false,
+        "export": true
+    },
+    "5690022110": {
+        "user_id": "5690022110",
+        "phone": "79379837599",
+        "session": "sessions/79379837599",
+        "reset_auth": false,
+        "export": true
+    }
+}
